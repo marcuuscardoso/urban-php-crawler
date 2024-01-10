@@ -1,0 +1,6 @@
+{
+    "require": {
+        "spatie/crawler": "^8.1",
+        "symfony/css-selector": "^7.0"
+    }
+}
